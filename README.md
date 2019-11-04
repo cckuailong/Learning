@@ -9,6 +9,7 @@
 - [浅谈僵尸网络利器：Fast-flux技术](https://www.freebuf.com/articles/network/136423.html)
 - [如何利用开源工具收集美国关键基础设施情报](https://www.anquanke.com/post/id/188510)
 - [SRC漏洞挖掘实用技巧](https://mp.weixin.qq.com/s/g-vlNmn4uQKUnBKZ7LMJvA)
+- [CSRF攻击与防御](https://blog.csdn.net/stpeace/article/details/53512283)
 
 ### 工具
 - [Win10上安装Awvs 12原版程序和完美破解补丁详细步骤](https://www.cnblogs.com/chun-xiaolin001/p/10060830.html)
@@ -25,3 +26,6 @@
 
 ### 教程
 - [Web安全攻防实战系列](https://github.com/hongriSec/Web-Security-Attack)
+
+### awesome tools
+- [根据密码找泄露email](https://github.com/decoxviii/karma)
