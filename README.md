@@ -12,6 +12,7 @@
 - [如何利用开源工具收集美国关键基础设施情报](https://www.anquanke.com/post/id/188510)
 - [SRC漏洞挖掘实用技巧](https://mp.weixin.qq.com/s/g-vlNmn4uQKUnBKZ7LMJvA)
 - [CSRF攻击与防御](https://blog.csdn.net/stpeace/article/details/53512283)
+- [如何评价 2 月 23 日谷歌宣布实现了 SHA-1 碰撞](https://www.zhihu.com/question/56234281/answer/148349930)
 
 ## 工具
 
@@ -20,6 +21,7 @@
 ## 开发
 
 - [漏扫动态爬虫实践](https://www.anquanke.com/post/id/178339)
+- [Python正则表达式指南](https://www.cnblogs.com/python-Specia-Force/p/7784317.html)
 
 ## 软件
 
