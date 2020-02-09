@@ -13,10 +13,12 @@
 - [SRC漏洞挖掘实用技巧](https://mp.weixin.qq.com/s/g-vlNmn4uQKUnBKZ7LMJvA)
 - [CSRF攻击与防御](https://blog.csdn.net/stpeace/article/details/53512283)
 - [如何评价 2 月 23 日谷歌宣布实现了 SHA-1 碰撞](https://www.zhihu.com/question/56234281/answer/148349930)
+- [WINDOWS 备用数据流（ADS）的妙用](https://www.cnblogs.com/feiyucha/p/9940895.html)
 
 ## 工具
 
 - [Win10上安装Awvs 12原版程序和完美破解补丁详细步骤](https://www.cnblogs.com/chun-xiaolin001/p/10060830.html)
+- [PowerShell Empire实战入门篇](https://www.freebuf.com/sectool/158393.html)
 
 ## 开发
 
