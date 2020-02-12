@@ -42,6 +42,7 @@
 
 - [根据密码找泄露email](https://github.com/decoxviii/karma)
 - [加密python文件或项目](https://github.com/cckuailong/py2sec)
+- [每天更新！全网热门公共 BitTorrent Tracker 列表！](https://trackerslist.com/#/zh)
 
 ## 其他
 
