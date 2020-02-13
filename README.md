@@ -14,6 +14,7 @@
 - [CSRF攻击与防御](https://blog.csdn.net/stpeace/article/details/53512283)
 - [如何评价 2 月 23 日谷歌宣布实现了 SHA-1 碰撞](https://www.zhihu.com/question/56234281/answer/148349930)
 - [WINDOWS 备用数据流（ADS）的妙用](https://www.cnblogs.com/feiyucha/p/9940895.html)
+- [新手指南：DVWA-1.9全级别教程](https://www.freebuf.com/articles/web/123779.html)
 
 ## 工具
 
