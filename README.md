@@ -15,11 +15,13 @@
 - [如何评价 2 月 23 日谷歌宣布实现了 SHA-1 碰撞](https://www.zhihu.com/question/56234281/answer/148349930)
 - [WINDOWS 备用数据流（ADS）的妙用](https://www.cnblogs.com/feiyucha/p/9940895.html)
 - [新手指南：DVWA-1.9全级别教程](https://www.freebuf.com/articles/web/123779.html)
+- [ss协议漏洞的复现和利用](https://www.leadroyal.cn/?p=1036)
 
 ## 工具
 
 - [Win10上安装Awvs 12原版程序和完美破解补丁详细步骤](https://www.cnblogs.com/chun-xiaolin001/p/10060830.html)
 - [PowerShell Empire实战入门篇](https://www.freebuf.com/sectool/158393.html)
+- [通过frp实现访问内网ssh与http简明教程](https://www.jianshu.com/p/219553bfeca9)
 
 ## 开发
 
