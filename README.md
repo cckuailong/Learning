@@ -16,6 +16,7 @@
 - [WINDOWS 备用数据流（ADS）的妙用](https://www.cnblogs.com/feiyucha/p/9940895.html)
 - [新手指南：DVWA-1.9全级别教程](https://www.freebuf.com/articles/web/123779.html)
 - [ss协议漏洞的复现和利用](https://www.leadroyal.cn/?p=1036)
+- [深入探寻离地攻击Living-off-the-land二进制文件](https://www.4hou.com/posts/XkMv)
 
 ## 工具
 
