@@ -17,6 +17,8 @@
 - [新手指南：DVWA-1.9全级别教程](https://www.freebuf.com/articles/web/123779.html)
 - [ss协议漏洞的复现和利用](https://www.leadroyal.cn/?p=1036)
 - [深入探寻离地攻击Living-off-the-land二进制文件](https://www.4hou.com/posts/XkMv)
+- [基于无状态的极速扫描技术](http://www.91ri.org/10800.html)
+- [慢速连接攻击](https://blog.csdn.net/qinyushuang/article/details/43274383)
 
 ## 工具
 
@@ -28,15 +30,18 @@
 
 - [漏扫动态爬虫实践](https://www.anquanke.com/post/id/178339)
 - [Python正则表达式指南](https://www.cnblogs.com/python-Specia-Force/p/7784317.html)
+- [什么是JSONP](https://blog.csdn.net/hansexploration/article/details/80314948)
 
 ## 软件
 
 - [Docker 入门教程](http://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 - [Docker 微服务教程](http://www.ruanyifeng.com/blog/2018/02/docker-wordpress-tutorial.html)
+- [10分钟看懂Docker和K8S](https://my.oschina.net/jamesview/blog/2994112)
 
 ## 算法
 
 - [simhash算法及原理简介](https://blog.csdn.net/lengye7/article/details/79789206)
+- [布隆过滤器](https://zhuanlan.zhihu.com/p/72378274)
 
 ## 教程
 
