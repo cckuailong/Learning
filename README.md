@@ -19,6 +19,7 @@
 - [深入探寻离地攻击Living-off-the-land二进制文件](https://www.4hou.com/posts/XkMv)
 - [基于无状态的极速扫描技术](http://www.91ri.org/10800.html)
 - [慢速连接攻击](https://blog.csdn.net/qinyushuang/article/details/43274383)
+- [JSONP注入解析](https://www.freebuf.com/articles/web/126347.html)
 
 ## 工具
 
@@ -31,6 +32,7 @@
 - [漏扫动态爬虫实践](https://www.anquanke.com/post/id/178339)
 - [Python正则表达式指南](https://www.cnblogs.com/python-Specia-Force/p/7784317.html)
 - [什么是JSONP](https://blog.csdn.net/hansexploration/article/details/80314948)
+- [帮你彻底搞懂JS中的prototype、__proto__与constructor](https://blog.csdn.net/cc18868876837/article/details/81211729)
 
 ## 软件
 
