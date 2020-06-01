@@ -20,6 +20,18 @@
 - [基于无状态的极速扫描技术](http://www.91ri.org/10800.html)
 - [慢速连接攻击](https://blog.csdn.net/qinyushuang/article/details/43274383)
 - [JSONP注入解析](https://www.freebuf.com/articles/web/126347.html)
+- [微信小程序的渗透五脉](https://www.hackinn.com/index.php/archives/672/)
+- [闲谈Webshell实战应用](https://www.anquanke.com/post/id/206664)
+- [SSRF攻击姿势汇总](http://www.codersec.net/2020/05/SSRF%E6%94%BB%E5%87%BB%E5%A7%BF%E5%8A%BF%E6%B1%87%E6%80%BB/)
+- [fastjson结合JdbcRowSetImpl反序列化利用理解](https://zhuanlan.zhihu.com/p/73428357)
+- [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
+- [常见端口漏洞](images/ports_vul.jpg)
+
+## 安全趣闻
+
+- [已知邮箱，求手机号码?](https://mp.weixin.qq.com/s/XvMruURNVWBkEwxvnPSW1g)
+- [黑灰产的廉价“温床”——跑分平台](https://www.anquanke.com/post/id/205684)
+- [由喝啤酒引发的军事情报人员信息泄露](https://mp.weixin.qq.com/s/sJyTd50SukIFuVjPSTrFDQ)
 
 ## 工具
 
