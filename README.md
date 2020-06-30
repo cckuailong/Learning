@@ -26,6 +26,8 @@
 - [fastjson结合JdbcRowSetImpl反序列化利用理解](https://zhuanlan.zhihu.com/p/73428357)
 - [Fastjson 反序列化漏洞史](https://paper.seebug.org/1192/)
 - [常见端口漏洞](images/ports_vul.jpg)
+- [神奇的Content-Type：所有版本的IE浏览器都存在的一个0day漏洞](https://www.freebuf.com/articles/web/132963.html)
+
 
 ## 安全趣闻
 
@@ -38,6 +40,7 @@
 - [Win10上安装Awvs 12原版程序和完美破解补丁详细步骤](https://www.cnblogs.com/chun-xiaolin001/p/10060830.html)
 - [PowerShell Empire实战入门篇](https://www.freebuf.com/sectool/158393.html)
 - [通过frp实现访问内网ssh与http简明教程](https://www.jianshu.com/p/219553bfeca9)
+- [sqlmap绕过CSRF检测进行注入](https://blog.blankshell.com/2020/06/25/sqlmap%e7%bb%95%e8%bf%87csrf%e6%a3%80%e6%b5%8b%e8%bf%9b%e8%a1%8c%e6%b3%a8%e5%85%a5/)
 
 ## 开发
 
