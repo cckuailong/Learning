@@ -28,6 +28,7 @@
 - [常见端口漏洞](images/ports_vul.jpg)
 - [神奇的Content-Type：所有版本的IE浏览器都存在的一个0day漏洞](https://www.freebuf.com/articles/web/132963.html)
 - [渗透经验分享之SQL注入思路拓展](https://www.cnblogs.com/lsdb/p/12084038.html)
+- [Windows/Linux文件下载方式汇总](https://xz.aliyun.com/t/7937)
 
 
 ## 安全趣闻
